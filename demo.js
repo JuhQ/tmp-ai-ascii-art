@@ -63,6 +63,6 @@ console.log("============================");
 console.log("You now have access to tons of ASCII art! 🎉");
 console.log("\\nUse the CLI commands to generate more:");
 console.log("- node cli.js random 5");
-console.log("- node cli.js banner \\"YOUR TEXT\\"");
+console.log("- node cli.js banner 'YOUR TEXT'");
 console.log("- node cli.js get animals cat");
 console.log("- node cli.js list");
