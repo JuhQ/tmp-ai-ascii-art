@@ -1,0 +1,13 @@
+{
+  "name": "ascii-tree-generator",
+  "version": "1.0.0",
+  "description": "JavaScript program to generate ASCII trees based on parameters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["ascii", "tree", "generator", "art"],
+  "author": "",
+  "license": "MIT"
+}
