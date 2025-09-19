@@ -1,0 +1,17 @@
+{
+  "name": "tmp-ai-ascii-art",
+  "version": "1.0.0",
+  "description": "A comprehensive ASCII art generator with multiple templates and examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node demo.js",
+    "test": "node test.js"
+  },
+  "keywords": ["ascii", "art", "generator", "cli", "text"],
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "ascii-art": "./cli.js"
+  }
+}
