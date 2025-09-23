@@ -1,0 +1,3 @@
+Pillow>=10.0.0
+argparse
+Flask>=2.0.0
