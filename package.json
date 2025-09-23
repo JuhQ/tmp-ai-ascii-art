@@ -1,0 +1,13 @@
+{
+  "name": "tmp-ai-ascii-art",
+  "version": "1.0.0",
+  "description": "Generate multiple markdown files with ASCII art",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ascii", "art", "markdown", "generator"],
+  "author": "",
+  "license": "ISC"
+}
